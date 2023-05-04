@@ -23,6 +23,6 @@ This is a realtime chatting application developed using React.js, Node.js & Sock
 
 1. Drop a ⭐ on the Github Repository.
 2. Clone the Repo by going to your local Git Client and pushing in the command:
-https://github.com/mechiragjain/Chat-Application.git
+https://github.com/RustomDuck/rustomchat.git
 3. At last, push in the command under client-user directory which will kickstart the application on Local Host:
 npm start
